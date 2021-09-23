@@ -20,6 +20,27 @@
       "correo": "pablo@correo.com",
       "empresa": "Ywye",
       "id": 3
+    },
+    {
+      "nombre": "Joseeline",
+      "telefono": "37181949",
+      "correo": "correo@correo.com",
+      "empresa": "GE",
+      "id": 4
+    },
+    {
+      "nombre": "Xime",
+      "telefono": "372781",
+      "correo": "Xim@correo.com",
+      "empresa": "PAN",
+      "id": 5
+    },
+    {
+      "nombre": "Valeria",
+      "telefono": "62719484",
+      "correo": "Valeria@correo.com",
+      "empresa": "INE",
+      "id": 6
     }
   ]
 }
