@@ -8,25 +8,11 @@
       "id": 1
     },
     {
-      "nombre": "Cas",
+      "nombre": "Cas Tej",
       "telefono": "55432427184",
       "correo": "Cass@hotmail.com",
       "empresa": "Airplane",
       "id": 2
-    },
-    {
-      "nombre": "Pablo",
-      "telefono": "6361718",
-      "correo": "pablo@correo.com",
-      "empresa": "Ywye",
-      "id": 3
-    },
-    {
-      "nombre": "Joseeline",
-      "telefono": "37181949",
-      "correo": "correo@correo.com",
-      "empresa": "GE",
-      "id": 4
     },
     {
       "nombre": "Xime",
